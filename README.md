@@ -30,3 +30,16 @@ Return a human-readable answer like: "The latest share price of ICICI Bank is ‚Ç
                           | Real-Time Web Search |
                           |   (via SerpAPI)      |
                           +----------------------+
+
+üîê API Keys Setup
+You'll need the following API keys:
+
+Google Gemini API Key (for gemini_key)
+SerpAPI Key (for real-time web search)
+
+Set them in your environment:
+export GOOGLE_API_KEY="your_gemini_api_key"
+export SERPAPI_API_KEY="your_serpapi_key"
+
+Or directly in your Python script (not recommended for production):
+gemini_key = "your_gemini_api_key"
