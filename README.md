@@ -11,7 +11,7 @@ This intelligent agent can:
 - Understand natural language queries and route them to the appropriate tool (LLM vs Web Search).
 
 ## 📸 Example Use Case
-
+```python
 query = "Latest ICICI Bank share price in INR on NSE/BSE"
 
 The agent will:
