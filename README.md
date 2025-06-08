@@ -12,7 +12,6 @@ This intelligent agent can:
 
 ## 📸 Example Use Case
 
-```python
 query = "Latest ICICI Bank share price in INR on NSE/BSE"
 
 The agent will:
